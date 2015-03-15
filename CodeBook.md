@@ -193,3 +193,4 @@ Descriptions of the variables in the file are provided below.
 		- mean of magnitude of frequency of body gyroscope 3 dimensional signals calculated using the Euclidean norm
 88	fBodyBodyGyroJerkMag.std..
 		- mean of magnitude of frequency of body jerk gyroscope 3 dimensional signals calculated using the Euclidean norm
+	
